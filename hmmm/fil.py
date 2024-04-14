@@ -1,1 +1,0 @@
-raise SyntaxError("Missing semicolon")
