@@ -22,4 +22,5 @@ jobs:
         run: python src/app.py
 
       - name: Run Code 2
-        run: python hmmm/fil.py
+        run: python into/koko.md
+
