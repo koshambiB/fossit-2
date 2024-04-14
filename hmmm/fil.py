@@ -1,1 +1,1 @@
-print("lovely")
+raise SyntaxError("Missing semicolon")
