@@ -20,3 +20,6 @@ jobs:
 
       - name: Run Code
         run: python src/app.py
+
+      - name: Run Code 2
+        run: python hmmm/fil.py
